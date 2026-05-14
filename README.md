@@ -152,9 +152,17 @@ What I found out / who helped / what I read.
 
 ## 👨‍💻 Author
 
-**Apprentice Developer — Anthropic**  
-Mentored by the Anthropic Senior Developer Team  
+**Apprentice Developer — Anthropic** 😄 *(just for fun, not yet — but would absolutely love it if I get it! 🤞)*  
+Mentored by the Anthropic Senior Developer Team 
+*(virtually, they don't know me yet 😄 — but they WILL... 
+love me making silly mistakes 😄 but not in production 😱)*
+
 Started: May 2026
+
+Yours Lovingly,
+
+
+# **Sasi Kiran**
 
 ---
 
