@@ -2,7 +2,7 @@
 
 ---
 
-## 🎯 Technical Definition *(Interview Ready)*
+## 🎯 Technical Definition 
 
 > `git init` initializes a new, empty Git repository in the current working directory by creating a hidden `.git/` subdirectory. This `.git/` folder contains all the metadata, object storage, and configuration Git needs to track the history, branches, and state of the project. Without it, Git has no awareness of the directory whatsoever.
 
